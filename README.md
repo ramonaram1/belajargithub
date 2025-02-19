@@ -1,3 +1,2 @@
-# belajargithub
-kita akan mempelajari cara penggunaan github 
+# belajar github
 di dicoding
